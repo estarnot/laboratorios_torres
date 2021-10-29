@@ -1,0 +1,6 @@
+lista = ["Perú", "Tacna", "Pocollay",2019]
+pais, departamento, distrito, anio = lista 
+print (pais) 
+print (departamento) 
+print (distrito) 
+print (anio)
